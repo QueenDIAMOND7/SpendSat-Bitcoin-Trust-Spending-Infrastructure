@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-LEAD_PRODUCT_MANAGER-white?style=for-the-badge&logo=bitcoin&logoColor=F7931A" />
-  <img src="https://img.shields.io/badge/STATUS-MVP_DEVELOPMENT-F7931A?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRODUCT-SPENDSATS_INFRA-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-MVP_DEVELOPMENT-white?style=for-the-badge&logo=lightning&logoColor=F7931A" />
 </p>
 
 ---
@@ -14,44 +14,44 @@
 ### 🛡️ THE STRATEGIC VISION
 > "Bitcoin in Africa doesn't lack users; it lacks trust at the point of sale."
 
-**SpendSat** is a decentralized trust infrastructure designed to bridge the gap between merchants and Bitcoin spenders. As **Lead PM**, I structured this project to transition Bitcoin from a speculative asset to a daily tool for financial sovereignty.
+**SpendSat** is a decentralized trust infrastructure designed to bridge the gap between merchants and Bitcoin spenders. It transitions Bitcoin from a speculative asset to a daily tool for financial sovereignty by integrating real-time conversion and social verification.
 
 ---
 
-### 📋 PM ARTIFACTS (PROOFS OF WORK)
+### 📋 PRODUCT ARTIFACTS (PM BLUEPRINTS)
 
 | DOCUMENT | STRATEGIC FOCUS | LINK |
 | :--- | :--- | :--- |
-| **PRD (Product Requirement)** | Citrusrate API & Conversion Logic. | [📄 View PRD](./PRD/README.md) |
-| **UX Flow & Mapping** | Optimizing the "Spender to Merchant" path. | [🗺️ View Flow](./UX-Flows/user-flow.png) |
-| **Sprint Backlog** | Agile Management & MoSCoW Prioritization. | [🚀 View Roadmap](./Roadmap/sprint-1.md) |
+| **Detailed PRD v2.0** | API Integration & Technical Specs. | [📄 View PRD](./DOCS/PRD.md) |
+| **User Journey & UX** | Merchant App & Payment Engine Flows. | [🗺️ View Flow](./UX-Flows/README.md) |
+| **Sprint Backlog** | Task Prioritization (Malik/Mubarak). | [🚀 View Roadmap](./Roadmap/sprint-1.md) |
 
 ---
 
 ### 💡 THE ARCHITECTURE (THE THREE PILLARS)
 
-* **🟠 MERCHANT TERMINAL:** Seamless onboarding with real-time Fiat-to-Sats conversion, eliminating volatility risk.
-* **⚪ SPENDER DISCOVERY:** Location-aware engine to identify Lightning-ready businesses.
-* **🛡️ ORANGE PILLARS:** A decentralized "Web of Trust" where community leaders verify merchant reliability.
+* **🟠 MERCHANT TERMINAL:** Seamless onboarding with real-time Fiat-to-Sats conversion via **Citrusrate API**, eliminating volatility risk for local vendors.
+* **⚪ SPENDER DISCOVERY:** Mobile-first location engine to identify Lightning-ready businesses and verified African merchants.
+* **🛡️ ORANGE PILLARS:** A decentralized "Web of Trust" where community verification acts as a reputation layer for informal economies.
 
 ---
 
 ### 📊 PERFORMANCE INDICATORS (KPIs)
 
-- **Merchant Retention:** Survival rate of active merchants after 90 days.
-- **Payment Velocity:** Speed of settlement via Lightning Network.
-- **Trust Accuracy:** Correlation between Orange Pillar ratings and user feedback.
+- **Merchant Retention:** 90-day survival rate of active Bitcoin-accepting merchants.
+- **Payment Velocity:** Transaction finality speed via Lightning Network.
+- **Trust Accuracy:** Correlation between Orange Pillar ratings and actual user repayment behavior.
 
 ---
 
 ### 🛠 TOOLKIT & VIBE
 - **Colors:** Bitcoin Orange (#F7931A) & Pure White (#FFFFFF).
-- **Methodology:** Agile, Technical Documentation, User-Centric Design.
-- **Stack:** Citrusrate.com API, Bitcoin Layer 2 (Lightning Network).
+- **Methodology:** Agile/Kanban, Technical Product Management, User-Centric Design.
+- **Stack:** Citrusrate API, Lightning Network (BOLT11), WebSocket for real-time rates.
 
 ---
 
 <p align="center">
-  <b>BUILDING FOR THE CIRCULAR ECONOMY: <a href="https://github.com/QueenDIAMOND7">QUEEN DIAMOND ⚡</a></b><br>
+  <b>BUILDING FOR THE CIRCULAR ECONOMY</b><br>
   <i>Every Satoshi spent is a vote for financial sovereignty.</i>
 </p>
