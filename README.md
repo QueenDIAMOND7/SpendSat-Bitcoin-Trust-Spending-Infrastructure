@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="spendsat-header.svg" />
+</p>
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&amp;display=swap');
