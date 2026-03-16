@@ -1,4 +1,10 @@
-<p align="center">
+# SpendSat-Bitcoin-Trust-Spending-Infrastructure
+
+```bash
+> Initializing SpendSat Infrastructure... [OK]
+> Connecting to Citrusrate API...       [OK]
+> Deploying Orange Pillars...           [VERIFIED]
+> Status: Bridging the African Trust Gap ⚡⚡⚡<p align="center">
   <img src="spendsat-header.svg" />
 </p>
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
