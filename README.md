@@ -11,14 +11,14 @@
 
 ---
 
-### 🛡️ THE STRATEGIC VISION
+###  THE STRATEGIC VISION
 > "Bitcoin in Africa doesn't lack users; it lacks trust at the point of sale."
 
 **SpendSat** is a decentralized trust infrastructure designed to bridge the gap between merchants and Bitcoin spenders. It transitions Bitcoin from a speculative asset to a daily tool for financial sovereignty by integrating real-time conversion and social verification.
 
 ---
 
-### 📋 PRODUCT ARTIFACTS (PM BLUEPRINTS)
+###  PRODUCT ARTIFACTS (PM BLUEPRINTS)
 
 | DOCUMENT | STRATEGIC FOCUS | LINK |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@
 
 ---
 
-### 💡 THE ARCHITECTURE (THE THREE PILLARS)
+###  THE ARCHITECTURE (THE THREE PILLARS)
 
 * **🟠 MERCHANT TERMINAL:** Seamless onboarding with real-time Fiat-to-Sats conversion via **Citrusrate API**, eliminating volatility risk for local vendors.
 * **⚪ SPENDER DISCOVERY:** Mobile-first location engine to identify Lightning-ready businesses and verified African merchants.
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 PERFORMANCE INDICATORS (KPIs)
+###  PERFORMANCE INDICATORS (KPIs)
 
 - **Merchant Retention:** 90-day survival rate of active Bitcoin-accepting merchants.
 - **Payment Velocity:** Transaction finality speed via Lightning Network.
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠 TOOLKIT & VIBE
+###  TOOLKIT & VIBE
 - **Colors:** Bitcoin Orange (#F7931A) & Pure White (#FFFFFF).
 - **Methodology:** Agile/Kanban, Technical Product Management, User-Centric Design.
 - **Stack:** Citrusrate API, Lightning Network (BOLT11), WebSocket for real-time rates.
